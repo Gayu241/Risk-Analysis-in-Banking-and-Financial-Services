@@ -51,10 +51,6 @@ The analysis is based on three datasets:
 - All visualizations were created using Python (Seaborn, Matplotlib, Plotly).
 - Optional enhancement done using Tableau for presentation aesthetics.
 
-## 📂 Deliverables
-- `EDA_Loan_Default.ipynb` – Jupyter notebook with full code, comments, and visualizations.
-- `Loan_Default_EDA_Presentation.pdf` – Summary of findings with clean visual storytelling.
-- `README.md` – Project overview and structure explanation.
 
 ## 🧠 Tools & Libraries Used
 - Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly)
